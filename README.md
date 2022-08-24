@@ -2,7 +2,7 @@
 <h2>Hi there👋</h2>
 
 <img align=left width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKodes&layout=compact"/> 
-<img align=left width="49%" src="https://github-readme-stats.vercel.app/api?username=JKodes&show_icons=true&theme=radical"/>
+<img align=left width="49%" src="https://github-readme-stats.vercel.app/api?username=JKodes&count_private=true"/>
 
 
 
