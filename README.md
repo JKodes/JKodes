@@ -1,5 +1,6 @@
 
 <h2>Hi there👋</h2>
+<p>Hello my Github viewer, I’m a computer science students who like to explore new paths when it comes to technology. I enrolled in my first college CS class in my Junior year of high school. Coding to me is an outlet where you can express yourself, especially in web development. One day you have a blank digital canvas. After a couple of hours, you have fully functioning websites connected to a server. While traveling through my GitHub you’ll see many different projects some maybe using one library from a specific programming language and others that need a collaboration of other programming languages to be completed. Below you should see two charts. The one the left shows my most used languages for my projects are public and on the right display how much commits and contribution i made this current year.</p>
 
 <img align=left width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKodes&layout=compact"/> 
 <img align=left width="49%" src="https://github-readme-stats.vercel.app/api?username=JKodes&count_private=true"/>
