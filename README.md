@@ -17,7 +17,7 @@ Bake Shop -
 <br>
 Asteroids -
 <br>
-Yelp
+Yelp -
 
 <br>
 <h3>Languages and Tools I've Used:</h3>
