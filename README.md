@@ -13,9 +13,11 @@
 <br>
 <br>
 <h4>Top 5 Favorite Projects:</h4>
-Asteroids - 
+Bake Shop - 
 <br>
-Bake Shop -
+Asteroids -
+<br>
+Yelp
 
 <br>
 <h3>Languages and Tools I've Used:</h3>
