@@ -12,12 +12,14 @@
 <br>
 <br>
 <br>
-<h4>Top 5 Favorite Projects:</h4>
-Bake Shop - 
+<h4>Top 5 Favorite Projects📋:</h4>
+Bake Shop 🎂 - 
 <br>
-Asteroids -
+Asteroids 🚀 -
 <br>
-Yelp -
+Yelp - ⭐
+<br>
+Best Buy Bot 🔍 -
 
 <br>
 <h3>Languages and Tools I've Used:</h3>
