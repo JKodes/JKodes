@@ -15,7 +15,7 @@
 <h3>Top 5 Favorite Projects📋:</h3>
 Bake Shop 🎂 - https://github.com/JKodes/Bake_Shop
 <br>
-Asteroids 🚀 -
+Asteroids 🚀 - https://github.com/JKodes/Asteroid-Game-
 <br>
 Yelp - ⭐
 <br>
