@@ -28,7 +28,7 @@ Best Buy Bot 🔍 -
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -46,10 +46,10 @@ Best Buy Bot 🔍 -
 
 
 ## 📬 Reach Out Through These Social Links:
+<p>
 <a href=""><img src ="https://user-images.githubusercontent.com/80609091/190032776-5adb25e8-e7b0-4ce1-b1f0-bf8c56b5dc78.png" alt="Google Email Icon" width="45" height="45"></a>
+<a href =""><img src="https://user-images.githubusercontent.com/80609091/190033067-2fe396f5-9bca-40b9-ba3b-4ba70ae38199.png" alt="Discord" width="50" height="50"> </a>
+<a href =""><img src="https://user-images.githubusercontent.com/80609091/190033323-59c26448-f9e4-4299-8c9d-0e93109da4ae.png" alt="Reddit" width="50" height="50"> </a>
+</p>
 
-
-![image](https://user-images.githubusercontent.com/80609091/190033067-2fe396f5-9bca-40b9-ba3b-4ba70ae38199.png)
-
-![image](https://user-images.githubusercontent.com/80609091/190033323-59c26448-f9e4-4299-8c9d-0e93109da4ae.png)
 
