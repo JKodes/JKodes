@@ -12,6 +12,16 @@
 <br>
 <br>
 <br>
+<h3>Hobbies:</h3>
+<p></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3>Top 5 Favorite Projects📋:</h3>
 Bake Shop 🎂 - https://github.com/JKodes/Bake_Shop
 <br>
