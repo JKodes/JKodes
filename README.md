@@ -13,7 +13,7 @@
 <br>
 <br>
 <h3>Hobbies:</h3>
-<p></p>
+<p>Video Games</p>
 
 <br>
 <br>
