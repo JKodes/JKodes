@@ -15,6 +15,7 @@
 <h3>Hobbies:</h3>
 <p>Video Games</p>
 <p>Eating at different fast food spots<p>
+<p>Creating new Projects Or Learning New Program Languages</p>
 
 <br>
 <br>
