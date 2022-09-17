@@ -14,6 +14,7 @@
 <br>
 <h3>Hobbies:</h3>
 <p>Video Games</p>
+<p>Eating at different fast food spots<p>
 
 <br>
 <br>
