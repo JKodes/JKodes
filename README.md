@@ -14,7 +14,8 @@
 <br>
 <h3>Hobbies:</h3>
 <p>Video Games</p>
-<p>Eating at different fast food spots<p>
+<p> img src="https://user-images.githubusercontent.com/80609091/190884975-b70f5490-88e2-4dee-b569-5a9a67c45193.png)
+"Eating at different fast food spots<p>
 <p>Creating new Projects Or Learning New Program Languages</p>
 
 <br>
