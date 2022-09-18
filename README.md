@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-<h3>Hobbies:</h3>
+<h2>Hobbies:</h2>
 <p> <img src="https://user-images.githubusercontent.com/80609091/190884975-b70f5490-88e2-4dee-b569-5a9a67c45193.png" width="25" height="20"> Playing Video Games<p>
 <p><img src="https://user-images.githubusercontent.com/80609091/190933142-e34166a9-0248-4840-b1d6-1d40cf4e5859.png" width="25" height="25"> Creating new Projects Or Learning New Program Languages</p>
 <p><img src="https://user-images.githubusercontent.com/80609091/190933273-1b0587cc-fffd-463a-91e8-064942fd892c.png" width="25" height="25"> Eating at different fast food restaurants that a discovered through the internet</p>
@@ -25,7 +25,7 @@
 <br>
 <br>
 <br>
-<h3>Top 5 Favorite Projects📋:</h3>
+<h2>Top 5 Favorite Projects📋:</h2>
 Bake Shop 🎂 - https://github.com/JKodes/Bake_Shop
 <br>
 Asteroids 🚀 - https://github.com/JKodes/Asteroid-Game-
@@ -35,7 +35,7 @@ Yelp - ⭐
 Best Buy Bot 🔍 -
 
 <br>
-<h3>Languages and Tools I've Used:</h3>
+<h2>Languages and Tools I've Used:</h2>
 <p> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
