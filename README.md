@@ -57,7 +57,7 @@ Best Buy Bot 🔍 -
 <p>
 <a href=""><img src ="https://user-images.githubusercontent.com/80609091/190032776-5adb25e8-e7b0-4ce1-b1f0-bf8c56b5dc78.png" alt="Google Email Icon" width="45" height="45"></a>
 <a href =""><img src="https://user-images.githubusercontent.com/80609091/190033067-2fe396f5-9bca-40b9-ba3b-4ba70ae38199.png" alt="Discord" width="50" height="50"> </a>
-<a href =""><img src="https://user-images.githubusercontent.com/80609091/190033323-59c26448-f9e4-4299-8c9d-0e93109da4ae.png" alt="Reddit" width="50" height="50"> </a>
+<a href ="https://www.reddit.com/user/TechMunch27W8"><img src="https://user-images.githubusercontent.com/80609091/190033323-59c26448-f9e4-4299-8c9d-0e93109da4ae.png" alt="Reddit" width="50" height="50"> </a>
 <a href ="https://www.linkedin.com/in/jawni-stanford-210624177"><img src="https://user-images.githubusercontent.com/80609091/190035642-b7a3d0a2-b39e-41c7-8ece-c7e07d477bca.png" alt="Linkedin"width="50" height="50"></a>
 <a href =""><img src="https://user-images.githubusercontent.com/80609091/190036820-e0074b62-6834-4795-89b9-56e19908dae6.png" alt="Meduim"width="50" height="50"></a>
 </p>
