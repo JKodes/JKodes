@@ -28,7 +28,7 @@ Asteroids 🚀 - https://github.com/JKodes/Asteroid-Game-
 <br>
 Yelp - ⭐
 <br>
-Best Buy Bot 🔍 - https://github.com/JKodes/BestbuyBot
+Best Buy Bot 🔍 - https://github.com/JKodes/BBestBot
 
 <br>
 <h2>Languages and Tools I've Used:</h2>
