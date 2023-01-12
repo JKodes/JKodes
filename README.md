@@ -12,6 +12,8 @@
 <br>
 <br>
 <br>
+<h2>Interest:</h2>
+<p>Web Development</p>
 
 <h2>Hobbies:</h2>
 <p> <img src="https://user-images.githubusercontent.com/80609091/190884975-b70f5490-88e2-4dee-b569-5a9a67c45193.png" width="25" height="20"> Playing Video Games<p>
