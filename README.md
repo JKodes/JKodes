@@ -35,7 +35,7 @@ Bake Shop 🎂 - https://github.com/JKodes/Bake_Shop
 <br>
 Asteroids 🚀 - https://github.com/JKodes/Asteroid-Game-
 <br>
-Yelp - ⭐
+Yelp - ⭐ - https://github.com/JKodes/YelpCamp
 <br>
 Best Buy Bot 🔍 - https://github.com/JKodes/BBestBot
 
