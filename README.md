@@ -2,8 +2,10 @@
 <h1> Hi there <img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="28px"> Feel Free To Browse</h1>
 <p>Hello my Github viewer, I’m a computer science students who like to explore new paths when it comes to technology. I enrolled in my first college CS class in my Junior year of high school. Coding to me is an outlet where you can express yourself, especially in web development. One day you have a blank digital canvas. After a couple of hours, you have fully functioning websites connected to a server. While traveling through my GitHub you’ll see many different projects some maybe using one library from a specific programming language and others that need a collaboration of other programming languages to be completed. Below you should see two charts. The one the left shows my most used languages for my projects that are public and on the right display how much commits and contribution I made this current year.</p>
 
+<div>
 <img align=left width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKodes&layout=compact"/> 
 <img align=left width="47%" src="https://github-readme-stats.vercel.app/api?username=JKodes&count_private=true"/>
+</div>
 
 <br>
 <br>
@@ -12,10 +14,13 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <h2>Interest:</h2>
-<p>Web Development</p>
-<p>Frontend Engineering</p>
-<p>Full Stack Engineering</p>
+<p>- Web Development</p>
+<p>- Frontend Engineering</p>
+<p>- Full Stack Engineering</p>
+
 
 <h2>Hobbies:</h2>
 <p> <img src="https://user-images.githubusercontent.com/80609091/190884975-b70f5490-88e2-4dee-b569-5a9a67c45193.png" width="25" height="20"> Playing Video Games<p>
