@@ -18,10 +18,9 @@
 <br>
 <br>
 <h2>Interest:</h2>
-<p>- Web Development 
-</p>
-<p>- Frontend Engineering</p>
-<p>- Full Stack Engineering <img src= "https://user-images.githubusercontent.com/80609091/222032727-b4c8d0e3-ac07-4de8-b6bc-49d9a621d505.png" width="23" height="22"</p>
+<p>- Web Development </p>
+<p>- Frontend Engineering <img src="https://user-images.githubusercontent.com/80609091/222035816-e2075c26-33b1-4eea-aca3-1ba8463bb334.png" width="23" height="22"></p>
+<p>- Full Stack Engineering <img src= "https://user-images.githubusercontent.com/80609091/222032727-b4c8d0e3-ac07-4de8-b6bc-49d9a621d505.png" width="23" height="22"></p>
 
 
 <h2>Hobbies:</h2>
