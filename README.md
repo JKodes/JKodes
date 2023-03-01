@@ -18,9 +18,10 @@
 <br>
 <br>
 <h2>Interest:</h2>
-<p>- Web Development</p>
+<p>- Web Development 
+</p>
 <p>- Frontend Engineering</p>
-<p>- Full Stack Engineering</p>
+<p>- Full Stack Engineering <img src= "https://user-images.githubusercontent.com/80609091/222032727-b4c8d0e3-ac07-4de8-b6bc-49d9a621d505.png" width="23" height="22"</p>
 
 
 <h2>Hobbies:</h2>
