@@ -54,10 +54,10 @@ Best Buy Bot 🔍 - https://github.com/JKodes/BBestBot
 <h3> 📬 Reach Out Through Social These Links Below:</h3>
 
 <p align="center">
-  <a href="mailto:jawanistanford@gmail.com">
+ <!-- <a href="mailto:jawanistanford@gmail.com"> -->
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
- <a href="https://www.linkedin.com/in/jawanistanford/">
+<!-- <a href="https://www.linkedin.com/in/jawanistanford/"> -->
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
