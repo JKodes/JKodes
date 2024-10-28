@@ -1,5 +1,6 @@
 
-<h3> Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width: 24px; width: 100%; height: auto; vertical-align: middle;"> </h3>
+<h3> Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width: 16px; width: 100%; height: 25px; vertical-align: middle;"> </h3>
+
 
 <p>I'm a passionate Computer Science student from New York who loves diving into new and exciting paths in technology. My journey began back in high school when I took my first computer science class as a Junior—and from that moment, I knew coding would be my creative outlet. Whether it's crafting clean, functional code or exploring cutting-edge tech, I’m always up for a challenge.</p>
 
