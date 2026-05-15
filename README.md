@@ -56,7 +56,7 @@ Best Buy Bot 🔍 - https://github.com/JKodes/BBestBot
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,github,npm,nodejs,react,materialui,go,postman,py,selenium,django,figma,linux,vim,vscode,mongodb,postgres,nextjs,graphql,redis,ps,rust,webpack,yarn,remix,deno,tauri,heroku,php,docker,express,bash)](https://skillicons.dev)
 
 </div>
-                     <h1>Not using GitHub!</h1>
+                     <h1>Not using GitHub its not the same anymore!</h1>
 <h3> 📬 Reach Out Through Social These Links Below:</h3>
 
 <p align="center">
