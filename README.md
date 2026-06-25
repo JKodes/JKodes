@@ -2,11 +2,11 @@
 <h3> Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width: 16px; width: 100%; height: 25px; vertical-align: middle;"> </h3>
 
 
-<p>I'm a passionate Computer Science student from New York who loves diving into new and exciting paths in technology. My journey began back in high school when I took my first computer science class as a Junior—and from that moment, I knew coding would be my creative outlet. Whether it's crafting clean, functional code or exploring cutting-edge tech, I’m always up for a challenge.</p>
+<p>I build modern web applications and continuously push myself to become a stronger engineer. I'm passionate about solving problems, creating intuitive user experiences, and turning ideas into products that people actually use.
 
-<p>For me, coding is like art. Imagine starting with a blank digital canvas and turning it into a fully interactive website or an innovative app after just a few hours of work. It's thrilling to see how a few lines of code can create something powerful and impactful. Here, you’ll find a variety of projects ranging from small, focused tools to full-stack applications that blend multiple programming languages and frameworks to get the job done.</p>
+My current focus is mastering React, Next.js, TypeScript, and full-stack development while expanding my understanding of software architecture, scalable systems, and product strategy. I enjoy learning by building, tackling challenging projects, and exploring new technologies that improve both developer and user experiences.
 
-<p>More projects to come soon!</p>
+Whether I'm developing an application from the ground up, refining a user interface, or learning a new framework, my goal remains the same: build software that is fast, reliable, and impactful.</p>
 
 <div>
 <img align=left width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKodes&layout=compact"/> 
@@ -53,7 +53,7 @@ Best Buy Bot 🔍 - https://github.com/JKodes/BBestBot
 <h3>Languages and Tools I've Used:</h3>
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,github,npm,nodejs,react,materialui,go,postman,py,selenium,django,figma,linux,vim,vscode,mongodb,postgres,nextjs,graphql,redis,ps,rust,webpack,yarn,remix,deno,tauri,heroku,php,docker,express,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,django,mongodb,postgres,docker,git,github,linux)](https://skillicons.dev)
 
 </div>
                      <h1>Not using GitHub its not the same anymore!</h1>
